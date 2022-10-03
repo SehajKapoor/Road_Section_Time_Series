@@ -1,4 +1,4 @@
-## Time-Series-Forecasting-Mahek-101903567
+## Time-Series-Forecasting-Sehaj Kapoor-102083013
 
 - Predict values of 5 parameters based on multi-input time series data.
 
